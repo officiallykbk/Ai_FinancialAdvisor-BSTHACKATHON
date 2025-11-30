@@ -1,0 +1,69 @@
+{
+  "Name": "Kwabena Boateng",
+  "currency": "GHS",
+  "target_net_worth": 1000000,
+  "current_net_worth": 5000,
+  "set_salary":8500,
+  "history": [
+    {
+      "month": "2024-01",
+      "salary": 8500,
+      "spending": 4200,
+      "saving": 4300,
+      "metadata": {
+        "primary_expense_category": "Rent/Utilities",
+        "investment_allocation": 0
+      }
+    },
+    {
+      "month": "2024-02",
+      "salary": 8500,
+      "spending": 7800,
+      "saving": 700,
+      "metadata": {
+        "primary_expense_category": "Luxury/Travel",
+        "note": "Valentine's trip"
+      }
+    },
+    {
+      "month": "2024-03",
+      "salary": 8500,
+      "spending": 3500,
+      "saving": 5000,
+      "metadata": {
+        "primary_expense_category": "Essentials",
+        "strategy": "Austerity month"
+      }
+    },
+    {
+      "month": "2024-04",
+      "salary": 12000,
+      "spending": 9000,
+      "saving": 3000,
+      "metadata": {
+        "primary_expense_category": "Lifestyle Creep",
+        "note": "Performance Bonus received"
+      }
+    },
+    {
+      "month": "2024-05",
+      "salary": 8500,
+      "spending": 4000,
+      "saving": 4500,
+      "metadata": {
+        "primary_expense_category": "Rent/Utilities",
+        "investment_allocation": 4000
+      }
+    },
+    {
+      "month": "2024-06",
+      "salary": 8500,
+      "spending": 3800,
+      "saving": 4700,
+      "metadata": {
+        "primary_expense_category": "Essentials",
+        "investment_allocation": 4700
+      }
+    }
+  ]
+}
